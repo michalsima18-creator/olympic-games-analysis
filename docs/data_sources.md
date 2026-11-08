@@ -1,6 +1,6 @@
 # Data Sources
 
-This is a historical dataset on the Olympic Games, including all the Games from **Athens 1896** to **Beijing 2022**. The dataset includes results, medals, athletes, and hosts. The data was obtained from Olympic Summer & Winter Games, 1896-2022 dataset on Kaggle
+This is a historical dataset on the Olympic Games, including all the Games from **Athens 1896** to **Beijing 2022**. The dataset includes results, medals, athletes, and hosts. The data was obtained from **Olympic Summer & Winter Games, 1896-2022 Dataset** on **Kaggle**.
 
 ## Raw Datasets
 | Source Link | Description |
