@@ -8,7 +8,7 @@
 
 # 5. Documentation
 
-Detailed information about the dataset, its sources, and structure can be found in [about&sources.md] (docs/about&sources.md)
+Detailed information about the dataset, its sources, and structure can be found in [about&sources.md](docs/about&sources.md)
 
 
 
