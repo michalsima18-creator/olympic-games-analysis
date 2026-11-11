@@ -29,11 +29,11 @@ The analysis focused on the following areas:
 
 # 4. Key Findings
 
-- **Top Medal-Winning Athletes** - Michael Phelps dominates the ranking with 28 Olympic medals, including a record 23 gold medals.
-Swimming athletes are the most represented among the top Olympic medal winners.
-Most elite Olympians competed in multiple Games, showing the importance of longevity for achieving medal success.
-Gold medals have the strongest impact on rankings and are the key differentiator among top athletes.
-The gap between first and second place is significant, highlighting Phelps' exceptional dominance in Olympic history.
+- **Top Medal-Winning Athletes** - Michael Phelps dominates the ranking with 28 Olympic medals, including a record 23 gold medals
+- Swimming athletes are the most represented among the top Olympic medal winners
+- Most elite Olympians competed in multiple Games, showing the importance of longevity for achieving medal success
+- Gold medals have the strongest impact on rankings and are the key differentiator among top athletes
+- The gap between first and second place is significant, highlighting Phelps' exceptional dominance in Olympic history
 - **Top Medal-Winning Countries** – the USA leads the medal rankings with 5,637 medals, followed by Russia and Germany.
 - **Medal Distribution by Sport** – Athletics has the highest number of medals, followed by Swimming and Rowing.
 - **Medals by Athlete Age** – most medals are concentrated among athletes in their twenties.
