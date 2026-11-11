@@ -12,7 +12,7 @@ An exploratory analysis of Olympic Games data from 1896 to 2022, focusing on ath
 - **DAX** – calculations and measures
 - **Power BI** – data modeling, visualization, and report creation
 
-### Python Libraries 🐍:
+### Python Libraries:
 
 - Pandas
 - SQLAlchemy
