@@ -4,6 +4,19 @@ An exploratory analysis of Olympic Games data from 1896 to 2022, focusing on ath
 
 # 2. Technologies Used
 
+- **Python** – data import
+- **SQL (MySQL)** – data manipulation, transformation, and querying
+- **Power Query** – data cleaning and transformation
+- **DAX** – calculations and measures
+- **Power BI** – data modeling, visualization, and report creation
+
+## Python Libraries:
+
+- Pandas
+- SQLAlchemy
+- OS
+- Glob
+
 # 3. Data Analysis
 
 # 4. Key Findings
