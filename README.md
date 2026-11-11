@@ -1,28 +1,28 @@
-#Project Overview#
+#Project Overview
 
-#Dataset#
+#Dataset
 
-#Objectives#
-
-
-#Technologies Used#
-
-#Data Preparation#
-
-#Exploratory Data Analysis#
+#Objectives
 
 
+#Technologies Used
 
-#Key Findings#
+#Data Preparation
+
+#Exploratory Data Analysis
 
 
 
-#Project Structure#
+#Key Findings
 
 
 
-#How to Run#
+#Project Structure
 
 
 
-#Data Source & Credits#
+#How to Run
+
+
+
+#Data Source & Credits
