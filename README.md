@@ -1,28 +1,12 @@
-# Project Overview
+# 1. Project Overview
 
-# Dataset
+# 2. Dataset
 
-# Objectives
+# 3. Tools & Technologies
 
+# 4. Analysis & Key Findings
 
-# Technologies Used
-
-# Data Preparation
-
-# Exploratory Data Analysis
+# 5. Project Structure & Usage
 
 
 
-# Key Findings
-
-
-
-# Project Structure
-
-
-
-# How to Run
-
-
-
-# Data Source & Credits
