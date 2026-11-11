@@ -1,10 +1,10 @@
 # Olympic Games Analysis
 
-## 1. Project Overview
+## 1. Project Overview 📌
 
 An exploratory analysis of Olympic Games data from 1896 to 2022, focusing on athlete participation and rankings, country rankings, medal distribution across sports, medals by athlete age, and medal statistics by country and season. This project was completed as part of a Data Analytics course.
 
-## 2. Technologies Used
+## 2. Technologies Used 🛠️
 
 - **Python** – data import
 - **SQL (MySQL)** – data manipulation, transformation, and querying
@@ -12,14 +12,14 @@ An exploratory analysis of Olympic Games data from 1896 to 2022, focusing on ath
 - **DAX** – calculations and measures
 - **Power BI** – data modeling, visualization, and report creation
 
-### Python Libraries:
+### Python Libraries 🐍:
 
 - Pandas
 - SQLAlchemy
 - OS
 - Glob
 
-## 3. Data Analysis
+## 3. Data Analysis 📊
 
 The analysis focused on the following areas:
 
@@ -29,7 +29,7 @@ The analysis focused on the following areas:
 - **Medals by Athlete Age** – examining medal counts across different age groups
 - **Medals by Season** – comparing country medal counts in Summer and Winter Olympic Game
 
-## 4. Key Findings
+## 4. Key Findings 🔍
 
 - **Top Medal-Winning Athletes** - Michael Phelps dominates the ranking with 28 Olympic medals, including a record 23 gold medals
 - swimming athletes are the most represented among the top Olympic medal winners
@@ -41,7 +41,7 @@ The analysis focused on the following areas:
 - **Medals by Athlete Age** – most medals are concentrated among athletes in their twenties
 - **Summer vs. Winter Games** – Summer Olympic Games has for a significantly higher number of medals than Winter Games
 
-## 5. Documentation
+## 5. Documentation 📄
 
 Detailed information about the dataset, its sources, and structure can be found in [about&sources.md](docs/about&sources.md).
 
