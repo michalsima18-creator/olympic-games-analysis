@@ -21,7 +21,7 @@ An exploratory analysis of Olympic Games data from 1896 to 2022, focusing on ath
 
 The analysis focused on the following areas:
 
-- **Athlete Analysis** – ranking athletes by the number of medals and displaying individual athlete information and Olympic achievements.
+- **Athlete Rankings** – ranking athletes by the number of medals and displaying individual athlete information and Olympic achievements.
 - **Country Rankings** – comparing countries based on their total medal counts.
 - **Medals by Sport** – analyzing medal distribution across different sports.
 - **Medals by Athlete Age** – examining medal counts across different age groups.
