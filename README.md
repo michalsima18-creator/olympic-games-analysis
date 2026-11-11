@@ -19,7 +19,20 @@ An exploratory analysis of Olympic Games data from 1896 to 2022, focusing on ath
 
 # 3. Data Analysis
 
+The analysis focused on the following areas:
+
+- **Athlete Analysis** – ranking athletes by the number of medals and displaying individual athlete information and Olympic achievements.
+- **Country Rankings** – comparing countries based on their total medal counts.
+- **Medals by Sport** – analyzing medal distribution across different sports.
+- **Medals by Athlete Age** – examining medal counts across different age groups.
+- **Medals by Season** – comparing country medal counts in Summer and Winter Olympic Games.
+
 # 4. Key Findings
+
+- **Top Medal-Winning Countries** – the USA leads the medal rankings with 5,637 medals, followed by Russia and Germany.
+- **Medal Distribution by Sport** – Athletics has the highest number of medals, followed by Swimming and Rowing.
+- **Medals by Athlete Age** – most medals are concentrated among athletes in their twenties.
+- **Summer vs. Winter Games** – Summer Olympic Games account for a significantly higher number of medals than Winter Games.
 
 # 5. Documentation
 
