@@ -32,7 +32,7 @@ The analysis focused on the following areas:
 ## 4. Key Findings 🔍
 
 - ### Top Medal-Winning Athletes
-- - **Michael Phelps dominates the ranking** with 28 Olympic medals, including a record 23 gold medals
+- **Michael Phelps dominates the ranking** with 28 Olympic medals, including a record 23 gold medals
 - **swimming athletes are the most represented** among the top Olympic medal winners
 - **most elite Olympians competed in multiple Games**, showing the importance of longevity for achieving medal success
 - **gold medals have the strongest impact on rankings** and are the key differentiator among top athletes
