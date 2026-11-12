@@ -37,10 +37,14 @@ The analysis focused on the following areas:
 - **most elite Olympians competed in multiple Games**, showing the importance of longevity for achieving medal success
 - **gold medals have the strongest impact on rankings** and are the key differentiator among top athletes
 - **the gap between first and second place is significant**, highlighting Phelps' exceptional dominance in Olympic history
-- ## Top Medal-Winning Countries – the USA leads the medal rankings with 5,637 medals, followed by Russia and Germany
-- ## Medal Distribution by Sport – athletics has the highest number of medals, followed by Swimming and Rowing
-- ## Medals by Athlete Age – most medals are concentrated among athletes in their twenties
-- ## Summer vs. Winter Games – Summer Olympic Games has for a significantly higher number of medals than Winter Games
+- ### Top Medal-Winning Countries 
+- the USA leads the medal rankings with 5,637 medals, followed by Russia and Germany
+- ### Medal Distribution by Sport
+- athletics has the highest number of medals, followed by Swimming and Rowing
+- ### Medals by Athlete Age
+– most medals are concentrated among athletes in their twenties
+- ### Summer vs. Winter Games
+– Summer Olympic Games has for a significantly higher number of medals than Winter Games
 
 ## 5. Documentation 📄
 
